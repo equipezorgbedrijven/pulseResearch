@@ -5,6 +5,12 @@ Authors@R:
     person("Tim", "Eeftink", "tim.eeftink@timformatie.nl", role = c("aut", "cre"))
 Description: Provides tools for working with Pulse research data.
 License: file LICENSE
+Imports:
+  data.table,
+  googleAuthR,
+  googleCloudStorageR,
+  httr,
+  readxl
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.3
