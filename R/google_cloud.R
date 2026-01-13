@@ -36,7 +36,8 @@ get_token <- function() {
 #'   be a csv, xlsx or Rdata.
 #' @param bucket String containing the GCS-bucket where to read the data from.
 #'
-#' @return Data.table containing the data of the file specified, or a list with data.tables.
+#' @return Data.table containing the data of the file specified, or a list with
+#'   data.tables.
 #'
 #' @export
 #' @import data.table
