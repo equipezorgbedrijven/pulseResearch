@@ -2,7 +2,7 @@ Package: pulseResearch
 Title: Research tools for Pulse data
 Version: 0.1.0
 Authors@R: 
-    person("Tim", "Eeftink", "tim.eeftink@timformatie.nl", role = c("aut", "cre"))
+    person("Tim", "Eeftink", email = "tim.eeftink@timformatie.nl", role = c("aut", "cre"))
 Description: Provides tools for working with Pulse research data.
 License: file LICENSE
 Imports:
